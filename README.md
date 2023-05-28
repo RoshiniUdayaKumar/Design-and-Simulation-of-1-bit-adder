@@ -44,7 +44,6 @@ Circuit Under Test(CUT):
 
 ![image](https://github.com/RoshiniUdayaKumar/Design-and-Simulation-of-1-bit-adder/assets/133715179/ce361662-e3f8-4163-bbff-d96a3c11b670)
 
-
 ![split in_out](https://github.com/RoshiniUdayaKumar/Design-and-Simulation-of-1-bit-adder/assets/133715179/59013925-c6d9-4ca9-9d32-65e119a47e8b)
 
 Delay Plots:
@@ -56,6 +55,8 @@ Falling delay for inverter cell is 2.57E-10 and the occurrence time is 3.05E-09
 NAND:
 
 Symbol of a NAND Gate:
+
+![NANDSymbol](https://github.com/RoshiniUdayaKumar/Design-and-Simulation-of-1-bit-adder/assets/133715179/79f4f880-ddde-449a-a3c5-d1ef31189f07)
 
 Layout of a NAND:
 
@@ -81,4 +82,50 @@ Delay Curve:
 
 ![Delay curve](https://github.com/RoshiniUdayaKumar/Design-and-Simulation-of-1-bit-adder/assets/133715179/300256c0-53f0-4b5a-b282-89c5cfa8ee22)
 
+XOR Gate:
+
+Symbol:
+![XORsymbol](https://github.com/RoshiniUdayaKumar/Design-and-Simulation-of-1-bit-adder/assets/133715179/596e0f7c-aee5-4397-9b49-9e9692166a23)
+
+Layout:
+
+![XOR2lyt](https://github.com/RoshiniUdayaKumar/Design-and-Simulation-of-1-bit-adder/assets/133715179/5a8b72aa-0a2d-4b0f-afda-0f0f22ef75b4)
+
+Circuit Under Test(CUT):
+
+![XOR2_crkt](https://github.com/RoshiniUdayaKumar/Design-and-Simulation-of-1-bit-adder/assets/133715179/c06ebae9-1200-4db5-bc27-b529b689f9bd)
+
+Input-Output Voltage Curve:
+
+![Output plot1](https://github.com/RoshiniUdayaKumar/Design-and-Simulation-of-1-bit-adder/assets/133715179/33f1f3d5-52b6-4d04-8064-0eb6f7a62b8e)
+
+![image](https://github.com/RoshiniUdayaKumar/Design-and-Simulation-of-1-bit-adder/assets/133715179/9a4a3302-cacc-4091-a5be-217f242ae4b4)
+
+Extracted Parasitic Curve:
+
+![seperate plots](https://github.com/RoshiniUdayaKumar/Design-and-Simulation-of-1-bit-adder/assets/133715179/4eff7a22-bb8b-405e-93d2-26add749db9a)
+
+Delay Plots:
+
+![XOR2_output](https://github.com/RoshiniUdayaKumar/Design-and-Simulation-of-1-bit-adder/assets/133715179/f1d6472c-2688-4fa7-a232-471d12c888c5)
+
+![image](https://github.com/RoshiniUdayaKumar/Design-and-Simulation-of-1-bit-adder/assets/133715179/72324fc8-7d85-4b76-b4a8-a9bd5458ac78)
+
+Single-bit adder:
+
+![Symbol](https://github.com/RoshiniUdayaKumar/Design-and-Simulation-of-1-bit-adder/assets/133715179/72bace1d-def9-4061-97eb-3b1fe3b105f1)
+
+Layout:
+
+![Layout](https://github.com/RoshiniUdayaKumar/Design-and-Simulation-of-1-bit-adder/assets/133715179/60513925-3dcb-45e4-8a9c-6f61fe998e49)
+
+Circuit Under Test(CUT):
+
+![Schematic](https://github.com/RoshiniUdayaKumar/Design-and-Simulation-of-1-bit-adder/assets/133715179/25491d04-5439-471b-be09-e0610217ce92)
+
+Delay:
+
+![image](https://github.com/RoshiniUdayaKumar/Design-and-Simulation-of-1-bit-adder/assets/133715179/d43843e5-0e87-4936-8d77-6d3324591c6c)
+
+![image](https://github.com/RoshiniUdayaKumar/Design-and-Simulation-of-1-bit-adder/assets/133715179/bdb387ae-1f70-4b02-a360-02fec75c5890)
 
