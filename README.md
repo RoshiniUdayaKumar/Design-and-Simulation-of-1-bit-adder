@@ -52,6 +52,7 @@ Delay Plots:
 
 Falling delay for inverter cell is 2.57E-10 and the occurrence time is 3.05E-09
 
+
 NAND:
 
 Symbol of a NAND Gate:
@@ -82,9 +83,13 @@ Delay Curve:
 
 ![Delay curve](https://github.com/RoshiniUdayaKumar/Design-and-Simulation-of-1-bit-adder/assets/133715179/300256c0-53f0-4b5a-b282-89c5cfa8ee22)
 
+![image](https://github.com/RoshiniUdayaKumar/Design-and-Simulation-of-1-bit-adder/assets/133715179/4b4e26bb-69ae-4c8f-aac7-bc28fa3eb421)
+
+
 XOR Gate:
 
 Symbol:
+
 ![XORsymbol](https://github.com/RoshiniUdayaKumar/Design-and-Simulation-of-1-bit-adder/assets/133715179/596e0f7c-aee5-4397-9b49-9e9692166a23)
 
 Layout:
@@ -111,6 +116,7 @@ Delay Plots:
 
 ![image](https://github.com/RoshiniUdayaKumar/Design-and-Simulation-of-1-bit-adder/assets/133715179/72324fc8-7d85-4b76-b4a8-a9bd5458ac78)
 
+
 Single-bit adder:
 
 ![Symbol](https://github.com/RoshiniUdayaKumar/Design-and-Simulation-of-1-bit-adder/assets/133715179/72bace1d-def9-4061-97eb-3b1fe3b105f1)
@@ -121,7 +127,7 @@ Layout:
 
 Circuit Under Test(CUT):
 
-![Schematic](https://github.com/RoshiniUdayaKumar/Design-and-Simulation-of-1-bit-adder/assets/133715179/25491d04-5439-471b-be09-e0610217ce92)
+![1bitschm](https://github.com/RoshiniUdayaKumar/Design-and-Simulation-of-1-bit-adder/assets/133715179/fe683bcb-00ee-4ad4-b54f-bf4038ad5274)
 
 Delay:
 
