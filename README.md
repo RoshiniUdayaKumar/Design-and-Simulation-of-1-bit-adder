@@ -4,7 +4,7 @@ In this project, we will design a 1-bit adder which is used to further design a 
 
 The objective of this project is to perform post-layout simulations. After verifying that the DRC and LVS have passed without any errors, we shall extract the parasitics to perform post-layout simulations. This will provide a clear understanding of the circuit speed, the effect of parasitics on the circuit, and any glitches introduced due to signal delay mismatches. 
 
-Unlike only designing the layouts only with VDD and GND, this will not assure that the circuit will perform as desired. Hence, we will apply the required voltage and load to the pins and measure the performance of the circuit. 
+Unlike designing the layouts only with VDD and GND, which will not assure that the circuit will perform as desired. We will apply the required voltage and load to the pins in the layout to measure the performance of the circuit. 
 
 Steps followed to accomplish this:
 
